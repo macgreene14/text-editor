@@ -6,7 +6,7 @@
   
   ## Deployed Application
 
-[https://text-editor-mgreene.herokuapp.com/]
+https://text-editor-mgreene.herokuapp.com/
   ## Table of Contents
   
   - [Installation](#Installation)
